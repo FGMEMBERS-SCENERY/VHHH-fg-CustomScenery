@@ -8,7 +8,7 @@ OBJECT_SHARED Models/Airport/localizer.xml 113.585833 22.165 -0.1 71.45
 OBJECT_STATIC grand-lisboa.ac 113.5433867 22.1909254 16 92
 # osm2city_VHHH
 # do not edit below this line
-# Last Written Wed Jun  1 18:53:57 2016
+# Last Written Wed Jun  8 10:15:17 2016
 #
 OBJECT_STATIC VHHHcity1317.xml 113.50260 22.21476 69.14 0
 OBJECT_STATIC lightmap-switch.xml 113.50260 22.21476 69.14 0

@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<PropertyList>
+<path>VHHHcity4919.ac</path>
+<animation>
+  <type>range</type>
+  <min-m>0</min-m>
+  <max-property>/sim/rendering/static-lod/rough</max-property>
+  <object-name>LOD_rough</object-name>
+</animation>
+
+
+</PropertyList>

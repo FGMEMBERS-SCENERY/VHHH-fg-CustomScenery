@@ -8,12 +8,5 @@
   <object-name>LOD_rough</object-name>
 </animation>
 
-<animation>
-  <type>range</type>
-  <min-m>0</min-m>
-  <max-property>/sim/rendering/static-lod/detailed</max-property>
-  <object-name>LOD_detail</object-name>
-</animation>
-
 
 </PropertyList>

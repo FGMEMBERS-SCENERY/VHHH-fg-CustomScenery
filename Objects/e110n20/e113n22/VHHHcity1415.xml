@@ -1,46 +1,6 @@
 <?xml version="1.0"?>
 <PropertyList>
 <path>VHHHcity1415.ac</path>
-<model>
-  <path>Models/Effects/pos_lamp_red_light_2st.xml</path>
-  <offsets>
-    <x-m>-130.304</x-m>
-    <y-m>1519.4</y-m>
-    <z-m>345.992</z-m>
-    <pitch-deg> 0.00</pitch-deg>
-    <heading-deg>0.0 </heading-deg>
-  </offsets>
-</model>
-<model>
-  <path>Models/Effects/pos_lamp_red_light_2st.xml</path>
-  <offsets>
-    <x-m>-119.939</x-m>
-    <y-m>1521.34</y-m>
-    <z-m>345.992</z-m>
-    <pitch-deg> 0.00</pitch-deg>
-    <heading-deg>0.0 </heading-deg>
-  </offsets>
-</model>
-<model>
-  <path>Models/Effects/pos_lamp_red_light_2st.xml</path>
-  <offsets>
-    <x-m>-119.995</x-m>
-    <y-m>1526.52</y-m>
-    <z-m>345.992</z-m>
-    <pitch-deg> 0.00</pitch-deg>
-    <heading-deg>0.0 </heading-deg>
-  </offsets>
-</model>
-<model>
-  <path>Models/Effects/pos_lamp_red_light_2st.xml</path>
-  <offsets>
-    <x-m>-130.282</x-m>
-    <y-m>1525.14</y-m>
-    <z-m>345.992</z-m>
-    <pitch-deg> 0.00</pitch-deg>
-    <heading-deg>0.0 </heading-deg>
-  </offsets>
-</model>
 <animation>
   <type>range</type>
   <min-m>0</min-m>

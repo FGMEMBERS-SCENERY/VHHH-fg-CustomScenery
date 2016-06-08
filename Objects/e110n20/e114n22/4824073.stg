@@ -5,3 +5,10 @@ OBJECT_SHARED Models/Maritime/Misc/Buoy-IsolatedDanger.ac 114.2926667 22.2389167
 OBJECT_SHARED Models/Maritime/Misc/Buoy-Safe-Water.ac 114.27597 22.2337208 -0.12 120.72
 OBJECT_SHARED Models/Maritime/Misc/Buoy-Safe-Water.ac 114.2935871 22.2192687 -0.59 321.09
 OBJECT_SHARED Models/Maritime/Misc/Buoy-Safe-Water.ac 114.3355588 22.2192968 -5.62 288.13
+# osm2city_VHHH
+# do not edit below this line
+# Last Written Wed Jun  8 10:15:17 2016
+#
+OBJECT_STATIC VHHHcity5216.xml 114.25981 22.19670 -0.07 0
+OBJECT_STATIC lightmap-switch.xml 114.25981 22.19670 -0.07 0
+# END osm2city_VHHH
